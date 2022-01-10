@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AIKTC News</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="latest_news">Latest News</string>
+    <string name="other_news">Other News</string>
+    <string name="loading_image_1">Loading image 1</string>
+    <string name="news_image">News Image</string>
+    <string name="splash_image">splash image</string>
+</resources>
